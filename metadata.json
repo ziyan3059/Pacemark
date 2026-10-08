@@ -1,0 +1,6 @@
+{
+  "name": "PaceMark Revision",
+  "description": "Timed exam paper generator based on user revision notes, featuring per-question stopwatch tracking and panic zone diagnostics for any academic exam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
